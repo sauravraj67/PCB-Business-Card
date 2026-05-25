@@ -11,7 +11,6 @@ I am making a Printed Circuit Board Business Card for My Studio , It will have N
 - 
 | Qty | Description |  Total (USD) |
 |----:|-------------|-------------|
-
 | 1 | PCB and Assembly  |   	49.43 |
 | 1 |Shipping JLCPCB - Discount  | .71 |
 
